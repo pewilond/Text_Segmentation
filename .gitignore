@@ -1,0 +1,16 @@
+data/
+research.md
+.venv/
+data_seg/
+data_seg_augmented/
+data_augmentation/
+logs/
+train/train_mask_rcnn
+train/train_unet
+config.yaml
+results.md
+Карточка для ПП.pdf
+ALB_search.ipynb
+data_analysis.ipynb
+models/
+models_augmented/
